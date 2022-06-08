@@ -11,3 +11,7 @@ ____
 * Twix
 * Peanut M&Ms
 * Chips
+
+## Other Pages
+
+[Click Here to See Yucky Foods](yuck.md)

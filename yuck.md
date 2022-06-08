@@ -7,4 +7,6 @@
 * Pickled Pigs Feets
 * Scandinavian Blood Pudding
 * Haggis
-* Ballut
+* Balut
+* Thousand Year Old Egg
+* Mushrooms
